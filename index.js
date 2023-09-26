@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import got from 'got';
 import Parser from 'node-xml-stream';
 import { execSync } from 'node:child_process';
+import { titleCase } from 'title-case';
 
 const date = new Date();
 const year = date.getFullYear();
@@ -24,6 +25,20 @@ if (process.argv.length > 2) {
 const filename = `journal-abbreviations${suffix}.txt`;
 
 const writer = fs.createWriteStream(filename, { flags: 'w', autoClose: true, encoding: 'utf8'});
+
+const dotAbbr = (abbr, title) => {
+  try {
+    const [, realAbbr, suffix = ''] = abbr.match(/^(.+?)(\s*\(.*\))?$/);
+    return realAbbr.split(/\s+/).map(token => {
+      const re = new RegExp(`${token}( |$)`, 'i');
+      return token + (re.test(title) ? '' : '.');
+    }).join(' ') + suffix;
+  } catch (e) {
+    // do nothing
+  }
+
+  return abbr;
+}
 
 const finalizeAbbrs = () => {
   try {
@@ -69,11 +84,13 @@ const handleNextFile = () => {
     switch (name) {
       case 'NLMCatalogRecord':
         if (journal.abbr) {
+          const delimitedTitle = journal.title ? '\t' + titleCase(journal.title) : '';
+          const delimitedDottedAbbr = journal.title ? '\t' + dotAbbr(journal.abbr, journal.title) : '';
           for (const name of journal.names) {
             if (name.toLowerCase() === journal.abbr.toLowerCase()) continue;
-            writer.write(`${name}\t${journal.abbr}\n`);
+            writer.write(`${name}\t${journal.abbr}${delimitedDottedAbbr}${delimitedTitle}\n`);
             if (name.endsWith('.'))
-              writer.write(`${name.replace(/\.$/, '')}\t${journal.abbr}\n`);
+              writer.write(`${name.replace(/\.$/, '')}\t${journal.abbr}${delimitedDottedAbbr}${delimitedTitle}\n`);
           }
         }
         journal = undefined;
@@ -92,27 +109,31 @@ const handleNextFile = () => {
   parser.on('text', text => {
     switch (lastTag) {
       case 'TitleMain':
-      case 'TitleAlternate':
-        journal.names.push(
-          text
-            .replace(/"/g, '')
-            .replace(/^\.+\s*/g, '')
-            .replace(/&amp;/g, '&')
-            .replace(/&lt;/g, '<')
-            .replace(/&gt;/g, '>')
-            .trim()
-        );
-        break;
       case 'MedlineTA':
-        process.stdout.write('.');
-        journal.abbr = text
+      case 'TitleAlternate':
+        const cleanText = text
           .replace(/"/g, '')
           .replace(/^\.+\s*/g, '')
           .replace(/&amp;/g, '&')
           .replace(/&lt;/g, '<')
           .replace(/&gt;/g, '>')
-          .trim()
-        break;
+          .trim();
+
+        switch (lastTag) {
+          case 'TitleMain':
+            journal.title = cleanText.replace(/[.\s]+$/, '');
+            journal.names.push(cleanText);
+            break;
+
+          case 'TitleAlternate':
+            journal.names.push(cleanText);
+            break;
+
+          case 'MedlineTA':
+            process.stdout.write('.');
+            journal.abbr = cleanText;
+            break;
+        }
     }
   });
 

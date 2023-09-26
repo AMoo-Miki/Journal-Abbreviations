@@ -37,12 +37,18 @@ const run = async () => {
   const tempFile = path.join(os.tmpdir(), abbrFileName);
   await fs.copyFile(srcFile, tempFile);
 
+  const srcReadme = path.join(process.cwd(), 'README.md');
+  const tempReadme = path.join(os.tmpdir(), 'README.md');
+  await fs.copyFile(srcReadme, tempReadme);
+
   await exec.exec(`git rm -rf .`);
   await exec.exec(`git clean -fdx`);
 
   await fs.copyFile(tempFile, destFile);
+  await fs.copyFile(tempReadme, srcReadme);
 
   await exec.exec(`git add ${versionedFileName}`);
+  await exec.exec(`git add README.md`);
   await exec.exec(`git commit -a -m "Release ${version}"`);
   await exec.exec(`git push -f origin ${branchName}`);
 
