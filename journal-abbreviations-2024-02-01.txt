@@ -1,0 +1,734 @@
+A&D	Aging Dis	Aging Dis.	Aging and Disease
+ABP	Acta Biochim Pol	Acta Biochim. Pol.	Acta Biochimica Polonica
+ACS	Adv Comm Swallowing	Adv. Comm. Swallowing	Advances in Communication and Swallowing
+AI	Radiol Artif Intell	Radiol. Artif. Intell.	Radiology. Artificial Intelligence
+AIP biophysics reviews	Biophys Rev (Melville)	Biophys. Rev. (Melville)	Biophysics Reviews
+AIPM	Ann Ib Postgrad Med	Ann. Ib. Postgrad. Med.	Annals of Ibadan Postgraduate Medicine
+AJPM focus	AJPM Focus	AJPM Focus	AJPM Focus
+AJPM focus.	AJPM Focus	AJPM Focus	AJPM Focus
+AJR	AJR Am J Roentgenol	AJR. Am. J. Roentgenol.	AJR.  American Journal of Roentgenology
+AJR.  American journal of roentgenology	AJR Am J Roentgenol	AJR. Am. J. Roentgenol.	AJR.  American Journal of Roentgenology
+AJR.  American journal of roentgenology.	AJR Am J Roentgenol	AJR. Am. J. Roentgenol.	AJR.  American Journal of Roentgenology
+AJTCCM	Afr J Thorac Crit Care Med	Afr. J. Thorac. Crit. Care Med.	African Journal of Thoracic and Critical Care Medicine
+APJO	Asia Pac J Ophthalmol (Phila)	Asia. Pac. J. Ophthalmol. (Phila)	Asia-Pacific Journal of Ophthalmology
+APR	Ann Paediatr Rheumatol	Ann. Paediatr. Rheumatol.	Annals of Paediatric Rheumatology
+ARD JUTH journal	Jos J Med	Jos J. Med.	Jos Journal of Medicine
+Acta Biochim Polon	Acta Biochim Pol	Acta Biochim. Pol.	Acta Biochimica Polonica
+Acta Odont Scand	Acta Odontol Scand	Acta Odontol. Scand.	Acta Odontologica Scandinavica
+Acta biochim. polon	Acta Biochim Pol	Acta Biochim. Pol.	Acta Biochimica Polonica
+Acta biochim. polon.	Acta Biochim Pol	Acta Biochim. Pol.	Acta Biochimica Polonica
+Acta biochimica Polonica	Acta Biochim Pol	Acta Biochim. Pol.	Acta Biochimica Polonica
+Acta biochimica Polonica.	Acta Biochim Pol	Acta Biochim. Pol.	Acta Biochimica Polonica
+Acta colombiana de psicología : revista de la Facultad de Psicología, Universidad Católica de Colombia	Acta Colomb Psicol	Acta Colomb. Psicol.	Acta Colombiana De psicología : Revista De La Facultad De Psicología, Universidad Católica De Colombia
+Acta colombiana de psicología : revista de la Facultad de Psicología, Universidad Católica de Colombia.	Acta Colomb Psicol	Acta Colomb. Psicol.	Acta Colombiana De psicología : Revista De La Facultad De Psicología, Universidad Católica De Colombia
+Acta hispanica ad medicinae scientiarumque historiam illustrandam	Dynamis	Dynamis	Dynamis
+Acta odont. scand	Acta Odontol Scand	Acta Odontol. Scand.	Acta Odontologica Scandinavica
+Acta odont. scand.	Acta Odontol Scand	Acta Odontol. Scand.	Acta Odontologica Scandinavica
+Acta odontologica Scandinavica	Acta Odontol Scand	Acta Odontol. Scand.	Acta Odontologica Scandinavica
+Acta odontologica Scandinavica.	Acta Odontol Scand	Acta Odontol. Scand.	Acta Odontologica Scandinavica
+Adaptive medicine	Adapt Med	Adapt. Med.	Adaptive Medicine
+Adaptive medicine.	Adapt Med	Adapt. Med.	Adaptive Medicine
+Addiction biology	Addict Biol	Addict. Biol.	Addiction Biology
+Addiction biology.	Addict Biol	Addict. Biol.	Addiction Biology
+Advances in communication and swallowing	Adv Comm Swallowing	Adv. Comm. Swallowing	Advances in Communication and Swallowing
+Advances in communication and swallowing.	Adv Comm Swallowing	Adv. Comm. Swallowing	Advances in Communication and Swallowing
+Advances in redox research	Adv Redox Res	Adv. Redox Res.	Advances in Redox Research
+Advances in redox research.	Adv Redox Res	Adv. Redox Res.	Advances in Redox Research
+African journal of thoracic and critical care medicine	Afr J Thorac Crit Care Med	Afr. J. Thorac. Crit. Care Med.	African Journal of Thoracic and Critical Care Medicine
+African journal of thoracic and critical care medicine.	Afr J Thorac Crit Care Med	Afr. J. Thorac. Crit. Care Med.	African Journal of Thoracic and Critical Care Medicine
+Aging and disease	Aging Dis	Aging Dis.	Aging and Disease
+Aging and disease.	Aging Dis	Aging Dis.	Aging and Disease
+Ai zheng fa sheng yu zhi liao	Cancer Pathog Ther	Cancer Pathog. Ther.	Cancer Pathogenesis and Therapy
+Alzheimer's & dementia : the journal of the Alzheimer's Association	Alzheimers Dement	Alzheimers. Dement.	Alzheimer's & Dementia : the Journal of the Alzheimer's Association
+Alzheimer's & dementia : the journal of the Alzheimer's Association.	Alzheimers Dement	Alzheimers. Dement.	Alzheimer's & Dementia : the Journal of the Alzheimer's Association
+Alzheimer's and dementia	Alzheimers Dement	Alzheimers. Dement.	Alzheimer's & Dementia : the Journal of the Alzheimer's Association
+American Journal of Preventive Medicine focus	AJPM Focus	AJPM Focus	AJPM Focus
+American journal of roentgenology	AJR Am J Roentgenol	AJR. Am. J. Roentgenol.	AJR.  American Journal of Roentgenology
+Annals of Ibadan post graduate medicine	Ann Ib Postgrad Med	Ann. Ib. Postgrad. Med.	Annals of Ibadan Postgraduate Medicine
+Annals of Ibadan postgraduate medicine	Ann Ib Postgrad Med	Ann. Ib. Postgrad. Med.	Annals of Ibadan Postgraduate Medicine
+Annals of Ibadan postgraduate medicine.	Ann Ib Postgrad Med	Ann. Ib. Postgrad. Med.	Annals of Ibadan Postgraduate Medicine
+Annals of botany	Ann Bot	Ann. Bot.	Annals of Botany
+Annals of botany.	Ann Bot	Ann. Bot.	Annals of Botany
+Annals of paediatric rheumatology	Ann Paediatr Rheumatol	Ann. Paediatr. Rheumatol.	Annals of Paediatric Rheumatology
+Annals of paediatric rheumatology.	Ann Paediatr Rheumatol	Ann. Paediatr. Rheumatol.	Annals of Paediatric Rheumatology
+Annual report - Frontier Nursing Service	Front Nurs Serv Q Bull	Front. Nurs. Serv. Q. Bull.	Frontier Nursing Service Quarterly Bulletin
+Antiviral chemistry & chemotherapy	Antivir Chem Chemother	Antivir. Chem. Chemother.	Antiviral Chemistry & Chemotherapy
+Antiviral chemistry & chemotherapy.	Antivir Chem Chemother	Antivir. Chem. Chemother.	Antiviral Chemistry & Chemotherapy
+Antiviral chemistry and chemotherapy	Antivir Chem Chemother	Antivir. Chem. Chemother.	Antiviral Chemistry & Chemotherapy
+Arch Immun Ter Dosw	Arch Immunol Ther Exp (Warsz)	Arch. Immunol. Ther. Exp. (Warsz)	Archivum Immunologiae Et Therapiae Experimentalis
+Arch. immun. ter. dosw	Arch Immunol Ther Exp (Warsz)	Arch. Immunol. Ther. Exp. (Warsz)	Archivum Immunologiae Et Therapiae Experimentalis
+Arch. immun. ter. dosw.	Arch Immunol Ther Exp (Warsz)	Arch. Immunol. Ther. Exp. (Warsz)	Archivum Immunologiae Et Therapiae Experimentalis
+Archivum immunologiae et therapiae experimentalis	Arch Immunol Ther Exp (Warsz)	Arch. Immunol. Ther. Exp. (Warsz)	Archivum Immunologiae Et Therapiae Experimentalis
+Archivum immunologiae et therapiae experimentalis.	Arch Immunol Ther Exp (Warsz)	Arch. Immunol. Ther. Exp. (Warsz)	Archivum Immunologiae Et Therapiae Experimentalis
+Archiwum historii i filozofii medycyny	Arch Hist Filoz Med	Arch. Hist. Filoz. Med.	Archiwum Historii I Filozofii Medycyny
+Artificial intelligence	Radiol Artif Intell	Radiol. Artif. Intell.	Radiology. Artificial Intelligence
+Asia-Pacific journal of ophthalmology	Asia Pac J Ophthalmol (Phila)	Asia. Pac. J. Ophthalmol. (Phila)	Asia-Pacific Journal of Ophthalmology
+Asia-Pacific journal of ophthalmology (Philadelphia, Pa.)	Asia Pac J Ophthalmol (Phila)	Asia. Pac. J. Ophthalmol. (Phila)	Asia-Pacific Journal of Ophthalmology
+Asia-Pacific journal of ophthalmology.	Asia Pac J Ophthalmol (Phila)	Asia. Pac. J. Ophthalmol. (Phila)	Asia-Pacific Journal of Ophthalmology
+Asthma research and practice	Asthma Res Pract	Asthma Res. Pract.	Asthma Research and Practice
+Asthma research and practice.	Asthma Res Pract	Asthma Res. Pract.	Asthma Research and Practice
+BJC	Br J Cancer	Br. J. Cancer	British Journal of Cancer
+BJGP	Br J Gen Pract	Br. J. Gen. Pract.	The British Journal of General Practice : the Journal of the Royal College of General Practitioners
+BJR case reports	BJR Case Rep	BJR Case Rep.	BJR Case Reports
+BJR case reports.	BJR Case Rep	BJR Case Rep.	BJR Case Reports
+BJR open	BJR Open	BJR Open	BJR Open
+BJR open.	BJR Open	BJR Open	BJR Open
+BMJ	Br Med J	Br. Med. J.	British Medical Journal
+BMJ oncology	BMJ Oncol	BMJ Oncol.	BMJ Oncology
+BMJ oncology.	BMJ Oncol	BMJ Oncol.	BMJ Oncology
+BMJ open science	BMJ Open Sci	BMJ Open Sci.	BMJ Open Science
+BMJ open science.	BMJ Open Sci	BMJ Open Sci.	BMJ Open Science
+BPR	Biophys Rev (Melville)	Biophys. Rev. (Melville)	Biophysics Reviews
+BRIT M J SUPPL	Br Med J	Br. Med. J.	British Medical Journal
+Back and musculoskeletal rehabilitation	J Back Musculoskelet Rehabil	J. Back Musculoskelet. Rehabil.	Journal of Back and Musculoskeletal Rehabilitation
+Bio-medical materials and engineering	Biomed Mater Eng	Biomed. Mater. Eng.	Bio-Medical Materials and Engineering
+Bio-medical materials and engineering.	Biomed Mater Eng	Biomed. Mater. Eng.	Bio-Medical Materials and Engineering
+Bioinformatics	Brief Bioinform	Brief. Bioinform.	Briefings in Bioinformatics
+Biological imaging	Biol Imaging	Biol. Imaging	Biological Imaging
+Biological imaging.	Biol Imaging	Biol. Imaging	Biological Imaging
+Biomedical materials and engineering	Biomed Mater Eng	Biomed. Mater. Eng.	Bio-Medical Materials and Engineering
+Biomedical spectroscopy and imaging	Biomed Spectrosc Imaging	Biomed. Spectrosc. Imaging	Biomedical Spectroscopy and Imaging
+Biomedical spectroscopy and imaging.	Biomed Spectrosc Imaging	Biomed. Spectrosc. Imaging	Biomedical Spectroscopy and Imaging
+Biophysics reviews	Biophys Rev (Melville)	Biophys. Rev. (Melville)	Biophysics Reviews
+Biophysics reviews.	Biophys Rev (Melville)	Biophys. Rev. (Melville)	Biophysics Reviews
+Biorheology	Biorheology	Biorheology	Biorheology
+Biorheology.	Biorheology	Biorheology	Biorheology
+Bl Cancer	Bladder Cancer	Bladder Cancer	Bladder Cancer
+Bladder cancer	Bladder Cancer	Bladder Cancer	Bladder Cancer
+Bladder cancer (Amsterdam, Netherlands)	Bladder Cancer	Bladder Cancer	Bladder Cancer
+Bladder cancer.	Bladder Cancer	Bladder Cancer	Bladder Cancer
+Br. med. j	Br Med J	Br. Med. J.	British Medical Journal
+Br. med. j.	Br Med J	Br. Med. J.	British Medical Journal
+Briefings in bioinformatics	Brief Bioinform	Brief. Bioinform.	Briefings in Bioinformatics
+Brit J Cancer	Br J Cancer	Br. J. Cancer	British Journal of Cancer
+Brit Med J	Br Med J	Br. Med. J.	British Medical Journal
+Brit. J. Cancer	Br J Cancer	Br. J. Cancer	British Journal of Cancer
+Brit. M. J	Br Med J	Br. Med. J.	British Medical Journal
+Brit. M. J.	Br Med J	Br. Med. J.	British Medical Journal
+British Medical Journal	Br Med J	Br. Med. J.	British Medical Journal
+British journal of cancer	Br J Cancer	Br. J. Cancer	British Journal of Cancer
+British journal of cancer.	Br J Cancer	Br. J. Cancer	British Journal of Cancer
+British journal of radiology case reports	BJR Case Rep	BJR Case Rep.	BJR Case Reports
+British journal of radiology open	BJR Open	BJR Open	BJR Open
+British medical journal	Br Med J	Br. Med. J.	British Medical Journal
+British medical journal.	Br Med J	Br. Med. J.	British Medical Journal
+Bulletin of the Chemical Society of Japan	Bull Chem Soc Jpn	Bull. Chem. Soc. Jpn.	Bulletin of the Chemical Society of Japan
+Bulletin of the Chemical Society of Japan.	Bull Chem Soc Jpn	Bull. Chem. Soc. Jpn.	Bulletin of the Chemical Society of Japan
+C.R.D.I. informe	IDRC Rep	IDRC Rep.	The IDRC Reports
+CCO	Chin Clin Oncol	Chin. Clin. Oncol.	Chinese Clinical Oncology
+CEJPH	Cent Eur J Public Health	Cent. Eur. J. Public Health	Central European Journal of Public Health
+CJC pediatric & congenital heart disease	CJC Pediatr Congenit Heart Dis	CJC Pediatr. Congenit. Heart Dis.	CJC Pediatric and Congenital Heart Disease
+CJC pediatric and congenital heart disease	CJC Pediatr Congenit Heart Dis	CJC Pediatr. Congenit. Heart Dis.	CJC Pediatric and Congenital Heart Disease
+CJC pediatric and congenital heart disease.	CJC Pediatr Congenit Heart Dis	CJC Pediatr. Congenit. Heart Dis.	CJC Pediatric and Congenital Heart Disease
+CNO	Child Neurol Open	Child Neurol. Open	Child Neurology Open
+CPT	Cancer Pathog Ther	Cancer Pathog. Ther.	Cancer Pathogenesis and Therapy
+CRDI informe	IDRC Rep	IDRC Rep.	The IDRC Reports
+Cahiers d'étude et de recherches francophones	Sante	Sante.	Santé : Cahiers D'étude Et De Recherches Francophones
+Cahiers santé	Sante	Sante.	Santé : Cahiers D'étude Et De Recherches Francophones
+Canadian journal of cardiology pediatric and congenital heart disease	CJC Pediatr Congenit Heart Dis	CJC Pediatr. Congenit. Heart Dis.	CJC Pediatric and Congenital Heart Disease
+Cancer biomarkers : section A of Disease markers	Cancer Biomark	Cancer Biomark.	Cancer Biomarkers : Section A of Disease Markers
+Cancer biomarkers : section A of Disease markers.	Cancer Biomark	Cancer Biomark.	Cancer Biomarkers : Section A of Disease Markers
+Cancer pathogenesis and therapy	Cancer Pathog Ther	Cancer Pathog. Ther.	Cancer Pathogenesis and Therapy
+Cancer pathogenesis and therapy.	Cancer Pathog Ther	Cancer Pathog. Ther.	Cancer Pathogenesis and Therapy
+Cardiothoracic imaging	Radiol Cardiothorac Imaging	Radiol. Cardiothorac. Imaging	Radiology. Cardiothoracic Imaging
+Cell genomics	Cell Genom	Cell Genom.	Cell Genomics
+Cell genomics.	Cell Genom	Cell Genom.	Cell Genomics
+Cell stress & chaperones	Cell Stress Chaperones	Cell Stress Chaperones	Cell Stress & Chaperones
+Cell stress & chaperones.	Cell Stress Chaperones	Cell Stress Chaperones	Cell Stress & Chaperones
+Cell stress and chaperones	Cell Stress Chaperones	Cell Stress Chaperones	Cell Stress & Chaperones
+Cell structure and function	Cell Struct Funct	Cell Struct. Funct.	Cell Structure and Function
+Cell structure and function.	Cell Struct Funct	Cell Struct. Funct.	Cell Structure and Function
+Central European journal of public health	Cent Eur J Public Health	Cent. Eur. J. Public Health	Central European Journal of Public Health
+Central European journal of public health.	Cent Eur J Public Health	Cent. Eur. J. Public Health	Central European Journal of Public Health
+Chemistry letters	Chem Lett	Chem. Lett.	Chemistry Letters
+Chemistry letters.	Chem Lett	Chem. Lett.	Chemistry Letters
+Child neurol. open	Child Neurol Open	Child Neurol. Open	Child Neurology Open
+Child neurology open	Child Neurol Open	Child Neurol. Open	Child Neurology Open
+Child neurology open.	Child Neurol Open	Child Neurol. Open	Child Neurology Open
+Chin Clin Oncol	Chin Clin Oncol	Chin. Clin. Oncol.	Chinese Clinical Oncology
+Chin Clin Oncol.	Chin Clin Oncol	Chin. Clin. Oncol.	Chinese Clinical Oncology
+Chinese clinical oncology	Chin Clin Oncol	Chin. Clin. Oncol.	Chinese Clinical Oncology
+Chinese clinical oncology.	Chin Clin Oncol	Chin. Clin. Oncol.	Chinese Clinical Oncology
+Chinese journal of burns	Zhonghua Shao Shang Za Zhi	Zhonghua Shao Shang Za Zhi	Zhonghua Shao Shang Za Zhi = Zhonghua Shaoshang Zazhi = Chinese Journal of Burns
+CiE	Contin Educ	Contin. Educ.	Continuity in Education
+Clinical cases in mineral and bone metabolism : the official journal of the Italian Society of Osteoporosis, Mineral Metabolism, and Skeletal Diseases	Clin Cases Miner Bone Metab	Clin. Cases Miner. Bone Metab.	Clinical Cases in Mineral and Bone Metabolism : the Official Journal of the Italian Society of Osteoporosis, Mineral Metabolism, and Skeletal Diseases
+Clinical cases in mineral and bone metabolism : the official journal of the Italian Society of Osteoporosis, Mineral Metabolism, and Skeletal Diseases.	Clin Cases Miner Bone Metab	Clin. Cases Miner. Bone Metab.	Clinical Cases in Mineral and Bone Metabolism : the Official Journal of the Italian Society of Osteoporosis, Mineral Metabolism, and Skeletal Diseases
+Clinical hemorheology and microcirculation	Clin Hemorheol Microcirc	Clin. Hemorheol. Microcirc.	Clinical Hemorheology and Microcirculation
+Clinical hemorheology and microcirculation.	Clin Hemorheol Microcirc	Clin. Hemorheol. Microcirc.	Clinical Hemorheology and Microcirculation
+Clinical medicine (London, England)	Clin Med (Lond)	Clin. Med. (Lond)	Clinical Medicine : Journal of the Royal College of Physicians of London
+Clinical medicine : journal of the Royal College of Physicians of London	Clin Med (Lond)	Clin. Med. (Lond)	Clinical Medicine : Journal of the Royal College of Physicians of London
+Clinical medicine : journal of the Royal College of Physicians of London.	Clin Med (Lond)	Clin. Med. (Lond)	Clinical Medicine : Journal of the Royal College of Physicians of London
+Community dental health	Community Dent Health	Community Dent. Health	Community Dental Health
+Community dental health.	Community Dent Health	Community Dent. Health	Community Dental Health
+Computational intelligence methods for bioinformatics and biostatistics : 13th International Meeting, CIBB 2016, Stirling, UK, September 1-3, 2016, revised selected papers	Comput Intell Methods Bioinform Biostat (2016)	Comput. Intell. Methods Bioinform. Biostat. (2016)	Computational Intelligence Methods for Bioinformatics and Biostatistics : 13th International Meeting, CIBB 2016, Stirling, UK, September 1-3, 2016, Revised Selected Papers
+Computational science	Nat Comput Sci	Nat. Comput. Sci.	Nature Computational Science
+Consort. psychiatr	Consort Psychiatr	Consort. Psychiatr.	Consortium Psychiatricum
+Consort. psychiatr.	Consort Psychiatr	Consort. Psychiatr.	Consortium Psychiatricum
+Consortium psychiatricum	Consort Psychiatr	Consort. Psychiatr.	Consortium Psychiatricum
+Consortium psychiatricum.	Consort Psychiatr	Consort. Psychiatr.	Consortium Psychiatricum
+Continuity in education	Contin Educ	Contin. Educ.	Continuity in Education
+Continuity in education.	Contin Educ	Contin. Educ.	Continuity in Education
+Creative nursing	Creat Nurs	Creat. Nurs.	Creative Nursing
+Creative nursing.	Creat Nurs	Creat. Nurs.	Creative Nursing
+Cuid	Rev Cuid	Rev. Cuid.	Revista Cuidarte
+Cuid.	Rev Cuid	Rev. Cuid.	Revista Cuidarte
+Cuidarte	Rev Cuid	Rev. Cuid.	Revista Cuidarte
+Current medicine	Curr Med (Cham)	Curr. Med. (Cham)	Current Medicine
+Current medicine (Cham, Switzerland)	Curr Med (Cham)	Curr. Med. (Cham)	Current Medicine
+Current medicine.	Curr Med (Cham)	Curr. Med. (Cham)	Current Medicine
+Developmental science	Int J Dev Sci	Int. J. Dev. Sci.	International Journal of Developmental Science
+Dynamis	Dynamis	Dynamis	Dynamis
+Dynamis (Granada, Spain)	Dynamis	Dynamis	Dynamis
+Dynamis.	Dynamis	Dynamis	Dynamis
+EJNMMI multimodality journal	Eur J Hybrid Imaging	Eur. J. Hybrid Imaging	European Journal of Hybrid Imaging
+EMBO Rep	EMBO Rep	EMBO Rep.	EMBO Reports
+EMBO Rep.	EMBO Rep	EMBO Rep.	EMBO Reports
+EMBO molecular medicine	EMBO Mol Med	EMBO Mol. Med.	EMBO Molecular Medicine
+EMBO molecular medicine.	EMBO Mol Med	EMBO Mol. Med.	EMBO Molecular Medicine
+EMBO reports	EMBO Rep	EMBO Rep.	EMBO Reports
+EMBO reports.	EMBO Rep	EMBO Rep.	EMBO Reports
+ERH	Environ Res Health	Environ. Res. Health	Environmental Research, Health : ERH
+Environmental research, health : ERH	Environ Res Health	Environ. Res. Health	Environmental Research, Health : ERH
+Environmental research, health : ERH.	Environ Res Health	Environ. Res. Health	Environmental Research, Health : ERH
+Epigenetics insights	Epigenet Insights	Epigenet. Insights	Epigenetics Insights
+Epigenetics insights.	Epigenet Insights	Epigenet. Insights	Epigenetics Insights
+European Molecular Biology Organization reports	EMBO Rep	EMBO Rep.	EMBO Reports
+European journal of hybrid imaging	Eur J Hybrid Imaging	Eur. J. Hybrid Imaging	European Journal of Hybrid Imaging
+European journal of hybrid imaging.	Eur J Hybrid Imaging	Eur. J. Hybrid Imaging	European Journal of Hybrid Imaging
+F EMS MICROB LETT	FEMS Microbiol Lett	FEMS Microbiol. Lett.	FEMS Microbiology Letters
+FCIMB	Front Cell Infect Microbiol	Front. Cell. Infect. Microbiol.	Frontiers in Cellular and Infection Microbiology
+FEMS immunology and medical microbiology	FEMS Immunol Med Microbiol	FEMS Immunol. Med. Microbiol.	FEMS Immunology and Medical Microbiology
+FEMS immunology and medical microbiology.	FEMS Immunol Med Microbiol	FEMS Immunol. Med. Microbiol.	FEMS Immunology and Medical Microbiology
+FEMS microbiology ecology	FEMS Microbiol Ecol	FEMS Microbiol. Ecol.	FEMS Microbiology Ecology
+FEMS microbiology ecology	FEMS Microbiol Lett	FEMS Microbiol. Lett.	FEMS Microbiology Letters
+FEMS microbiology ecology.	FEMS Microbiol Ecol	FEMS Microbiol. Ecol.	FEMS Microbiology Ecology
+FEMS microbiology immunology	FEMS Microbiol Immunol	FEMS Microbiol. Immunol.	FEMS Microbiology Immunology
+FEMS microbiology immunology	FEMS Microbiol Lett	FEMS Microbiol. Lett.	FEMS Microbiology Letters
+FEMS microbiology immunology.	FEMS Microbiol Immunol	FEMS Microbiol. Immunol.	FEMS Microbiology Immunology
+FEMS microbiology index	FEMS Microbiol Lett	FEMS Microbiol. Lett.	FEMS Microbiology Letters
+FEMS microbiology letters	FEMS Microbiol Lett	FEMS Microbiol. Lett.	FEMS Microbiology Letters
+FEMS microbiology letters.	FEMS Microbiol Lett	FEMS Microbiol. Lett.	FEMS Microbiology Letters
+FEMS microbiology reviews	FEMS Microbiol Lett	FEMS Microbiol. Lett.	FEMS Microbiology Letters
+FEMS microbiology reviews	FEMS Microbiol Rev	FEMS Microbiol. Rev.	FEMS Microbiology Reviews
+FEMS microbiology reviews.	FEMS Microbiol Rev	FEMS Microbiol. Rev.	FEMS Microbiology Reviews
+FEMS yeast research	FEMS Yeast Res	FEMS Yeast Res.	FEMS Yeast Research
+FEMS yeast research.	FEMS Yeast Res	FEMS Yeast Res.	FEMS Yeast Research
+FYI	PHC4 FYI	PHC4 FYI	PHC4 FYI
+Fish & shellfish immunology reports	Fish Shellfish Immunol Rep	Fish Shellfish Immunol. Rep.	Fish and Shellfish Immunology Reports
+Fish and shellfish immunology reports	Fish Shellfish Immunol Rep	Fish Shellfish Immunol. Rep.	Fish and Shellfish Immunology Reports
+Fish and shellfish immunology reports.	Fish Shellfish Immunol Rep	Fish Shellfish Immunol. Rep.	Fish and Shellfish Immunology Reports
+Food science and human wellness	Food Sci Hum Wellness	Food Sci. Hum. Wellness	Food Science and Human Wellness
+Food science and human wellness.	Food Sci Hum Wellness	Food Sci. Hum. Wellness	Food Science and Human Wellness
+Formosan journal of medical humanities	Taiwan Yi Xue  Ren Wen Xue Kan	Taiwan Yi Xue Ren Wen Xue Kan	Taiwan Yi Xue Ren Wen Xue Kan
+Front. med	Front Med (Lausanne)	Front. Med. (Lausanne)	Frontiers in Medicine
+Front. med.	Front Med (Lausanne)	Front. Med. (Lausanne)	Frontiers in Medicine
+Frontier Nursing Service quarterly bulletin	Front Nurs Serv Q Bull	Front. Nurs. Serv. Q. Bull.	Frontier Nursing Service Quarterly Bulletin
+Frontier Nursing Service quarterly bulletin.	Front Nurs Serv Q Bull	Front. Nurs. Serv. Q. Bull.	Frontier Nursing Service Quarterly Bulletin
+Frontiers in cellular and infection microbiology	Front Cell Infect Microbiol	Front. Cell. Infect. Microbiol.	Frontiers in Cellular and Infection Microbiology
+Frontiers in cellular and infection microbiology.	Front Cell Infect Microbiol	Front. Cell. Infect. Microbiol.	Frontiers in Cellular and Infection Microbiology
+Frontiers in medicine	Front Med (Lausanne)	Front. Med. (Lausanne)	Frontiers in Medicine
+Frontiers in medicine.	Front Med (Lausanne)	Front. Med. (Lausanne)	Frontiers in Medicine
+Frontiers in neuroergonomics	Front Neuroergon	Front. Neuroergon.	Frontiers in Neuroergonomics
+Frontiers in neuroergonomics.	Front Neuroergon	Front. Neuroergon.	Frontiers in Neuroergonomics
+Frontiers in oncology	Front Oncol	Front. Oncol.	Frontiers in Oncology
+Frontiers in oncology.	Front Oncol	Front. Oncol.	Frontiers in Oncology
+GENES AND DEV	Genes Dev	Genes Dev.	Genes & Development
+GENES DEVEL	Genes Dev	Genes Dev.	Genes & Development
+GENES DEVELOP	Genes Dev	Genes Dev.	Genes & Development
+Games for health journal	Games Health J	Games Health J.	Games for Health Journal
+Games for health journal.	Games Health J	Games Health J.	Games for Health Journal
+Gates open research	Gates Open Res	Gates Open Res.	Gates Open Research
+Gates open research.	Gates Open Res	Gates Open Res.	Gates Open Research
+Gene Dev	Genes Dev	Genes Dev.	Genes & Development
+Genes & development	Genes Dev	Genes Dev.	Genes & Development
+Genes & development.	Genes Dev	Genes Dev.	Genes & Development
+Genes and development	Genes Dev	Genes Dev.	Genes & Development
+HDS	Health Data Sci	Health Data Sci.	Health Data Science
+HPCR	Hum Pathol (N Y)	Hum. Pathol. (N Y)	Human Pathology : Case Reports
+HPP	Health Policy Plan	Health Policy Plan.	Health Policy and Planning
+HPR	Health Psychol Rep	Health Psychol. Rep.	Health Psychology Report
+Hall's journal of health	Halls J Health	Halls. J. Health	Hall's Journal of Health
+Hall's journal of health and miscellany	Halls J Health	Halls. J. Health	Hall's Journal of Health
+Hall's journal of health.	Halls J Health	Halls. J. Health	Hall's Journal of Health
+Han'guk Hosŭpʻisŭ Wanhwa Uiryo Hakhoe chi = The Korean journal of hospice and palliative care	Hanguk Hosupisu Wanhwa Uiryo Hakhoe Chi	Hanguk. Hosupisu. Wanhwa Uiryo Hakhoe Chi	Han'guk Hosŭpʻisŭ Wanhwa Uiryo Hakhoe Chi = The Korean Journal of Hospice and Palliative Care
+Han'guk Hosŭpʻisŭ Wanhwa Uiryo Hakhoe chi = The Korean journal of hospice and palliative care.	Hanguk Hosupisu Wanhwa Uiryo Hakhoe Chi	Hanguk. Hosupisu. Wanhwa Uiryo Hakhoe Chi	Han'guk Hosŭpʻisŭ Wanhwa Uiryo Hakhoe Chi = The Korean Journal of Hospice and Palliative Care
+Health data sci	Health Data Sci	Health Data Sci.	Health Data Science
+Health data sci.	Health Data Sci	Health Data Sci.	Health Data Science
+Health data science	Health Data Sci	Health Data Sci.	Health Data Science
+Health data science.	Health Data Sci	Health Data Sci.	Health Data Science
+Health policy and planning	Health Policy Plan	Health Policy Plan.	Health Policy and Planning
+Health policy and planning.	Health Policy Plan	Health Policy Plan.	Health Policy and Planning
+Health psychology report	Health Psychol Rep	Health Psychol. Rep.	Health Psychology Report
+Health psychology report.	Health Psychol Rep	Health Psychol. Rep.	Health Psychology Report
+Health technology and informatics	Stud Health Technol Inform	Stud. Health Technol. Inform.	Studies in Health Technology and Informatics
+Human antibodies	Hum Antibodies	Hum. Antibodies	Human Antibodies
+Human antibodies.	Hum Antibodies	Hum. Antibodies	Human Antibodies
+Human gene	Hum Gene (Amst)	Hum. Gene (Amst)	Human Gene
+Human gene (Amsterdam, Netherlands)	Hum Gene (Amst)	Hum. Gene (Amst)	Human Gene
+Human gene.	Hum Gene (Amst)	Hum. Gene (Amst)	Human Gene
+Human pathology (New York)	Hum Pathol (N Y)	Hum. Pathol. (N Y)	Human Pathology : Case Reports
+Human pathology : case reports	Hum Pathol (N Y)	Hum. Pathol. (N Y)	Human Pathology : Case Reports
+Human pathology : case reports.	Hum Pathol (N Y)	Hum. Pathol. (N Y)	Human Pathology : Case Reports
+I D R C reports	IDRC Rep	IDRC Rep.	The IDRC Reports
+I.D.R.C. reports	IDRC Rep	IDRC Rep.	The IDRC Reports
+IDRC rep	IDRC Rep	IDRC Rep.	The IDRC Reports
+IDRC rep.	IDRC Rep	IDRC Rep.	The IDRC Reports
+IES	Isokinet Exerc Sci	Isokinet. Exerc. Sci.	Isokinetics and Exercise Science
+IET NBT	IET Nanobiotechnol	IET Nanobiotechnol.	IET Nanobiotechnology
+IET nanobiotechnology	IET Nanobiotechnol	IET Nanobiotechnol.	IET Nanobiotechnology
+IJDS	Int J Dev Sci	Int. J. Dev. Sci.	International Journal of Developmental Science
+IJMEDPH	Int J Med Public Health	Int. J. Med. Public Health	International Journal of Medicine and Public Health
+IJOY	Int J Yoga	Int. J. Yoga	International Journal of Yoga
+IJPR	Iran J Pharm Res	Iran. J. Pharm. Res.	Iranian Journal of Pharmaceutical Research : IJPR
+IJPT	Int J Part Ther	Int. J. Part. Ther.	International Journal of Particle Therapy
+ImmunoHorizons	Immunohorizons	Immunohorizons	ImmunoHorizons
+ImmunoHorizons.	Immunohorizons	Immunohorizons	ImmunoHorizons
+Immunology and medical microbiology	FEMS Immunol Med Microbiol	FEMS Immunol. Med. Microbiol.	FEMS Immunology and Medical Microbiology
+Indian journal of pharmacology	Indian J Pharmacol	Indian J. Pharmacol.	Indian Journal of Pharmacology
+Indian journal of pharmacology.	Indian J Pharmacol	Indian J. Pharmacol.	Indian Journal of Pharmacology
+Infectio : revista de la Asociación Colombiana de Infectología	Infectio	Infectio	Infectio : Revista De La Asociación Colombiana De Infectología
+Infectio : revista de la Asociación Colombiana de Infectología.	Infectio	Infectio	Infectio : Revista De La Asociación Colombiana De Infectología
+Int. j. yoga therap	Int J Yoga Therap	Int. J. Yoga Therap.	International Journal of Yoga Therapy
+Int. j. yoga therap.	Int J Yoga Therap	Int. J. Yoga Therap.	International Journal of Yoga Therapy
+Int. perspect. sexual reproduct. health	Int Perspect Sex Reprod Health	Int. Perspect. Sex. Reprod. Health	International Perspectives on Sexual and Reproductive Health
+International dental journal (Philadelphia, Pa.)	Int Dent J (Phila)	Int. Dent. J. (Phila)	The International Dental Journal
+International journal of developmental science	Int J Dev Sci	Int. J. Dev. Sci.	International Journal of Developmental Science
+International journal of developmental science.	Int J Dev Sci	Int. J. Dev. Sci.	International Journal of Developmental Science
+International journal of medicine and public health	Int J Med Public Health	Int. J. Med. Public Health	International Journal of Medicine and Public Health
+International journal of medicine and public health.	Int J Med Public Health	Int. J. Med. Public Health	International Journal of Medicine and Public Health
+International journal of particle therapy	Int J Part Ther	Int. J. Part. Ther.	International Journal of Particle Therapy
+International journal of particle therapy.	Int J Part Ther	Int. J. Part. Ther.	International Journal of Particle Therapy
+International journal of risk and safety in medicine	Int J Risk Saf Med	Int. J. Risk Saf. Med.	The International Journal of Risk & Safety in Medicine
+International journal of sexual health : official journal of the World Association for Sexual Health	Int J Sex Health	Int. J. Sex. Health	International Journal of Sexual Health : Official Journal of the World Association for Sexual Health
+International journal of sexual health : official journal of the World Association for Sexual Health.	Int J Sex Health	Int. J. Sex. Health	International Journal of Sexual Health : Official Journal of the World Association for Sexual Health
+International journal of yoga	Int J Yoga	Int. J. Yoga	International Journal of Yoga
+International journal of yoga therapy	Int J Yoga Therap	Int. J. Yoga Therap.	International Journal of Yoga Therapy
+International journal of yoga therapy.	Int J Yoga Therap	Int. J. Yoga Therap.	International Journal of Yoga Therapy
+International journal of yoga.	Int J Yoga	Int. J. Yoga	International Journal of Yoga
+International perspectives on sexual and reproductive health	Int Perspect Sex Reprod Health	Int. Perspect. Sex. Reprod. Health	International Perspectives on Sexual and Reproductive Health
+International perspectives on sexual and reproductive health.	Int Perspect Sex Reprod Health	Int. Perspect. Sex. Reprod. Health	International Perspectives on Sexual and Reproductive Health
+Iowa medical journal	Iowa Med J	Iowa Med. J.	Iowa Medical Journal
+Iowa medical journal.	Iowa Med J	Iowa Med. J.	Iowa Medical Journal
+Iranian journal of pharmaceutical research : IJPR	Iran J Pharm Res	Iran. J. Pharm. Res.	Iranian Journal of Pharmaceutical Research : IJPR
+Iranian journal of pharmaceutical research : IJPR.	Iran J Pharm Res	Iran. J. Pharm. Res.	Iranian Journal of Pharmaceutical Research : IJPR
+Isokinetics and exercise science	Isokinet Exerc Sci	Isokinet. Exerc. Sci.	Isokinetics and Exercise Science
+Isokinetics and exercise science.	Isokinet Exerc Sci	Isokinet. Exerc. Sci.	Isokinetics and Exercise Science
+Issues in emerging health technologies	Issues Emerg Health Technol	Issues Emerg. Health Technol.	Issues in Emerging Health Technologies
+Issues in emerging health technologies.	Issues Emerg Health Technol	Issues Emerg. Health Technol.	Issues in Emerging Health Technologies
+J Clin Endocr	J Clin Endocrinol Metab	J. Clin. Endocrinol. Metab.	The Journal of Clinical Endocrinology and Metabolism
+J Clin Endocr Metab	J Clin Endocrinol Metab	J. Clin. Endocrinol. Metab.	The Journal of Clinical Endocrinology and Metabolism
+J Kentucky Med Ass	J Ky Med Assoc	J. Ky Med. Assoc.	The Journal of the Kentucky Medical Association
+J Rheum	J Rheumatol	J. Rheumatol.	The Journal of Rheumatology
+J Saudi Heart Association	J Saudi Heart Assoc	J. Saudi Heart Assoc.	Journal of the Saudi Heart Association
+J. Clin. Endocr. Metab	J Clin Endocrinol Metab	J. Clin. Endocrinol. Metab.	The Journal of Clinical Endocrinology and Metabolism
+J. Clin. Endocr. Metab.	J Clin Endocrinol Metab	J. Clin. Endocrinol. Metab.	The Journal of Clinical Endocrinology and Metabolism
+J. Exp. M	J Exp Med	J. Exp. Med.	The Journal of Experimental Medicine
+J. Exp. M.	J Exp Med	J. Exp. Med.	The Journal of Experimental Medicine
+JA	JMIR Aging	JMIR Aging	JMIR Aging
+JAAA	J Am Acad Audiol	J. Am. Acad. Audiol.	Journal of the American Academy of Audiology
+JAD	J Alzheimers Dis	J. Alzheimers. Dis.	Journal of Alzheimer's Disease : JAD
+JBCR	J Burn Care Res	J. Burn Care Res.	Journal of Burn Care & Research : Official Publication of the American Burn Association
+JBI	J Breast Imaging	J. Breast Imaging	Journal of Breast Imaging
+JBME	JMIR Biomed Eng	JMIR Biomed. Eng.	JMIR Biomedical Engineering
+JBMR	J Back Musculoskelet Rehabil	J. Back Musculoskelet. Rehabil.	Journal of Back and Musculoskeletal Rehabilitation
+JCD	J Conserv Dent	J. Conserv. Dent.	Journal of Conservative Dentistry : JCD
+JCDR	J Clin Diagn Res	J. Clin. Diagn. Res.	Journal of Clinical and Diagnostic Research : JCDR
+JCEM	J Clin Endocrinol Metab	J. Clin. Endocrinol. Metab.	The Journal of Clinical Endocrinology and Metabolism
+JCTH	J Clin Transl Hepatol	J. Clin. Transl. Hepatol.	Journal of Clinical and Translational Hepatology
+JHPC	J Hosp Palliat Care	J. Hosp. Palliat. Care	Journal of Hospice and Palliative Care
+JIRCD	J Interact Res Commun Disord	J. Interact. Res. Commun. Disord.	Journal of Interactional Research in Communication Disorders
+JJM	Jos J Med	Jos J. Med.	Jos Journal of Medicine
+JJP	Jpn J Physiol	Jpn. J. Physiol.	The Japanese Journal of Physiology
+JLP	J Lab Physicians	J. Lab. Physicians	Journal of Laboratory Physicians
+JME	JMIR Med Educ	JMIR Med. Educ.	JMIR Medical Education
+JMH	JMIR Ment Health	JMIR Ment. Health	JMIR Mental Health
+JMIR aging	JMIR Aging	JMIR Aging	JMIR Aging
+JMIR aging.	JMIR Aging	JMIR Aging	JMIR Aging
+JMIR biomedical engineering	JMIR Biomed Eng	JMIR Biomed. Eng.	JMIR Biomedical Engineering
+JMIR biomedical engineering.	JMIR Biomed Eng	JMIR Biomed. Eng.	JMIR Biomedical Engineering
+JMIR medical education	JMIR Med Educ	JMIR Med. Educ.	JMIR Medical Education
+JMIR medical education.	JMIR Med Educ	JMIR Med. Educ.	JMIR Medical Education
+JMIR mental health	JMIR Ment Health	JMIR Ment. Health	JMIR Mental Health
+JMIR mental health.	JMIR Ment Health	JMIR Ment. Health	JMIR Mental Health
+JND	J Neuromuscul Dis	J. Neuromuscul. Dis.	Journal of Neuromuscular Diseases
+JOP : Journal of the pancreas	JOP	JOP	JOP : Journal of the Pancreas
+JOP : Journal of the pancreas.	JOP	JOP	JOP : Journal of the Pancreas
+JOP. Journal of the Pancreas	JOP	JOP	JOP : Journal of the Pancreas
+JPS	J Physiol Sci	J. Physiol. Sci.	The Journal of Physiological Sciences : JPS
+JSHA	J Saudi Heart Assoc	J. Saudi Heart Assoc.	Journal of the Saudi Heart Association
+Japanese journal of physiology	Jpn J Physiol	Jpn. J. Physiol.	The Japanese Journal of Physiology
+Jos journal of medicine	Jos J Med	Jos J. Med.	Jos Journal of Medicine
+Jos journal of medicine.	Jos J Med	Jos J. Med.	Jos Journal of Medicine
+Journal	J Mass Assoc Boards Health	J. Mass. Assoc. Boards. Health.	Journal
+Journal für Urologie und Urogynäkologie	J Urol Urogynakologie	J. Urol. Urogynakologie.	Journal Für Urologie Und Urogynäkologie : Zeitschrift Für Urologie Und Urogynäkologie in Klinik Und Praxis
+Journal für Urologie und Urogynäkologie : Zeitschrift für Urologie und Urogynäkologie in Klinik und Praxis	J Urol Urogynakologie	J. Urol. Urogynakologie.	Journal Für Urologie Und Urogynäkologie : Zeitschrift Für Urologie Und Urogynäkologie in Klinik Und Praxis
+Journal für Urologie und Urogynäkologie : Zeitschrift für Urologie und Urogynäkologie in Klinik und Praxis.	J Urol Urogynakologie	J. Urol. Urogynakologie.	Journal Für Urologie Und Urogynäkologie : Zeitschrift Für Urologie Und Urogynäkologie in Klinik Und Praxis
+Journal of Alzheimer's disease : JAD	J Alzheimers Dis	J. Alzheimers. Dis.	Journal of Alzheimer's Disease : JAD
+Journal of Alzheimer's disease : JAD.	J Alzheimers Dis	J. Alzheimers. Dis.	Journal of Alzheimer's Disease : JAD
+Journal of Central South University. Medical sciences	Zhong Nan Da Xue Xue Bao Yi Xue Ban	Zhong Nan Da Xue Xue Bao. Yi Xue Ban	Zhong Nan Da Xue Xue Bao. Yi Xue Ban = Journal of Central South University. Medical Sciences
+Journal of Central South University. Medical sciences.	Zhong Nan Da Xue Xue Bao Yi Xue Ban	Zhong Nan Da Xue Xue Bao. Yi Xue Ban	Zhong Nan Da Xue Xue Bao. Yi Xue Ban = Journal of Central South University. Medical Sciences
+Journal of X ray science and technology	J Xray Sci Technol	J. Xray. Sci. Technol.	Journal of X-Ray Science and Technology
+Journal of X-ray science and technology	J Xray Sci Technol	J. Xray. Sci. Technol.	Journal of X-Ray Science and Technology
+Journal of X-ray science and technology.	J Xray Sci Technol	J. Xray. Sci. Technol.	Journal of X-Ray Science and Technology
+Journal of Zanjan University of Medical Sciences & Health Services	Majallahi Ilmi Pizhuhishii Danishgahi Ulumi Pizishki Khadamati Bihdashtii Darmanii Zanjan	Majallahi. Ilmi. Pizhuhishii. Danishgahi. Ulumi. Pizishki. Khadamati. Bihdashtii. Darmanii. Zanjan.	Majallah-I ʻIlmī Pizhūhishī-I Dānishgāh-I ʻUlūm-I Pizishkī Va Khadamāt-I Bihdāshtī-I Darmānī-I Zanjān
+Journal of anatomy and physiology	J Anat Physiol	J. Anat. Physiol.	Journal of Anatomy and Physiology
+Journal of anatomy and physiology.	J Anat Physiol	J. Anat. Physiol.	Journal of Anatomy and Physiology
+Journal of back and musculoskeletal rehabilitation	J Back Musculoskelet Rehabil	J. Back Musculoskelet. Rehabil.	Journal of Back and Musculoskeletal Rehabilitation
+Journal of back and musculoskeletal rehabilitation.	J Back Musculoskelet Rehabil	J. Back Musculoskelet. Rehabil.	Journal of Back and Musculoskeletal Rehabilitation
+Journal of breast imaging	J Breast Imaging	J. Breast Imaging	Journal of Breast Imaging
+Journal of breast imaging.	J Breast Imaging	J. Breast Imaging	Journal of Breast Imaging
+Journal of burn care & research : official publication of the American Burn Association	J Burn Care Res	J. Burn Care Res.	Journal of Burn Care & Research : Official Publication of the American Burn Association
+Journal of burn care & research : official publication of the American Burn Association.	J Burn Care Res	J. Burn Care Res.	Journal of Burn Care & Research : Official Publication of the American Burn Association
+Journal of burn care and research	J Burn Care Res	J. Burn Care Res.	Journal of Burn Care & Research : Official Publication of the American Burn Association
+Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance	J Cardiovasc Magn Reson	J. Cardiovasc. Magn. Reson.	Journal of Cardiovascular Magnetic Resonance : Official Journal of the Society for Cardiovascular Magnetic Resonance
+Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance.	J Cardiovasc Magn Reson	J. Cardiovasc. Magn. Reson.	Journal of Cardiovascular Magnetic Resonance : Official Journal of the Society for Cardiovascular Magnetic Resonance
+Journal of child neurology open	Child Neurol Open	Child Neurol. Open	Child Neurology Open
+Journal of clinical and diagnostic research	J Clin Diagn Res	J. Clin. Diagn. Res.	Journal of Clinical and Diagnostic Research : JCDR
+Journal of clinical and diagnostic research : JCDR	J Clin Diagn Res	J. Clin. Diagn. Res.	Journal of Clinical and Diagnostic Research : JCDR
+Journal of clinical and diagnostic research : JCDR.	J Clin Diagn Res	J. Clin. Diagn. Res.	Journal of Clinical and Diagnostic Research : JCDR
+Journal of clinical and translational hepatology	J Clin Transl Hepatol	J. Clin. Transl. Hepatol.	Journal of Clinical and Translational Hepatology
+Journal of clinical and translational hepatology.	J Clin Transl Hepatol	J. Clin. Transl. Hepatol.	Journal of Clinical and Translational Hepatology
+Journal of clinical endocrinology & metabolism	J Clin Endocrinol Metab	J. Clin. Endocrinol. Metab.	The Journal of Clinical Endocrinology and Metabolism
+Journal of conservative dentistry : JCD	J Conserv Dent	J. Conserv. Dent.	Journal of Conservative Dentistry : JCD
+Journal of conservative dentistry : JCD.	J Conserv Dent	J. Conserv. Dent.	Journal of Conservative Dentistry : JCD
+Journal of digital imaging	J Digit Imaging	J. Digit. Imaging	Journal of Digital Imaging
+Journal of digital imaging.	J Digit Imaging	J. Digit. Imaging	Journal of Digital Imaging
+Journal of foot and ankle research	J Foot Ankle Res	J. Foot Ankle Res.	Journal of Foot and Ankle Research
+Journal of foot and ankle research.	J Foot Ankle Res	J. Foot Ankle Res.	Journal of Foot and Ankle Research
+Journal of genetic engineering & biotechnology	J Genet Eng Biotechnol	J. Genet. Eng. Biotechnol.	Journal, Genetic Engineering & Biotechnology
+Journal of genetic engineering and biotechnology	J Genet Eng Biotechnol	J. Genet. Eng. Biotechnol.	Journal, Genetic Engineering & Biotechnology
+Journal of hematopathology	J Hematop	J. Hematop.	Journal of Hematopathology
+Journal of hematopathology.	J Hematop	J. Hematop.	Journal of Hematopathology
+Journal of hospice and palliative care	J Hosp Palliat Care	J. Hosp. Palliat. Care	Journal of Hospice and Palliative Care
+Journal of hospice and palliative care.	J Hosp Palliat Care	J. Hosp. Palliat. Care	Journal of Hospice and Palliative Care
+Journal of interactional research in communication disorders	J Interact Res Commun Disord	J. Interact. Res. Commun. Disord.	Journal of Interactional Research in Communication Disorders
+Journal of interactional research in communication disorders.	J Interact Res Commun Disord	J. Interact. Res. Commun. Disord.	Journal of Interactional Research in Communication Disorders
+Journal of laboratory physicians	J Lab Physicians	J. Lab. Physicians	Journal of Laboratory Physicians
+Journal of laboratory physicians.	J Lab Physicians	J. Lab. Physicians	Journal of Laboratory Physicians
+Journal of medical Internet research biomedical engineering	JMIR Biomed Eng	JMIR Biomed. Eng.	JMIR Biomedical Engineering
+Journal of medical internet research aging	JMIR Aging	JMIR Aging	JMIR Aging
+Journal of neonatal-perinatal medicine	J Neonatal Perinatal Med	J. Neonatal. Perinatal Med.	Journal of Neonatal-Perinatal Medicine
+Journal of neonatal-perinatal medicine.	J Neonatal Perinatal Med	J. Neonatal. Perinatal Med.	Journal of Neonatal-Perinatal Medicine
+Journal of neuromuscular diseases	J Neuromuscul Dis	J. Neuromuscul. Dis.	Journal of Neuromuscular Diseases
+Journal of neuromuscular diseases.	J Neuromuscul Dis	J. Neuromuscul. Dis.	Journal of Neuromuscular Diseases
+Journal of nuclear cardiology	J Nucl Cardiol	J. Nucl. Cardiol.	Journal of Nuclear Cardiology : Official Publication of the American Society of Nuclear Cardiology
+Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology	J Nucl Cardiol	J. Nucl. Cardiol.	Journal of Nuclear Cardiology : Official Publication of the American Society of Nuclear Cardiology
+Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology.	J Nucl Cardiol	J. Nucl. Cardiol.	Journal of Nuclear Cardiology : Official Publication of the American Society of Nuclear Cardiology
+Journal of nutrition, health, and aging	J Nutr Health Aging	J. Nutr. Health Aging	The Journal of Nutrition, Health & Aging
+Journal of occupational health	J Occup Health	J. Occup. Health	Journal of Occupational Health
+Journal of occupational health.	J Occup Health	J. Occup. Health	Journal of Occupational Health
+Journal of oral & facial pain and headache	J Oral Facial Pain Headache	J. Oral Facial Pain Headache	Journal of Oral & Facial Pain and Headache
+Journal of oral & facial pain and headache.	J Oral Facial Pain Headache	J. Oral Facial Pain Headache	Journal of Oral & Facial Pain and Headache
+Journal of oral and facial pain and headache	J Oral Facial Pain Headache	J. Oral Facial Pain Headache	Journal of Oral & Facial Pain and Headache
+Journal of pediatric rehabilitation medicine	J Pediatr Rehabil Med	J. Pediatr. Rehabil. Med.	Journal of Pediatric Rehabilitation Medicine
+Journal of pediatric rehabilitation medicine.	J Pediatr Rehabil Med	J. Pediatr. Rehabil. Med.	Journal of Pediatric Rehabilitation Medicine
+Journal of physical therapy education	J Phys Ther Educ	J. Phys. Ther. Educ.	Journal, Physical Therapy Education
+Journal of rheumatology	J Rheumatol	J. Rheumatol.	The Journal of Rheumatology
+Journal of rheumatology.  Supplement	J Rheumatol Suppl	J. Rheumatol. Suppl.	The Journal of Rheumatology. Supplement
+Journal of rheumatology. Special issue	J Rheumatol Suppl	J. Rheumatol. Suppl.	The Journal of Rheumatology. Supplement
+Journal of the American Academy of Audiology	J Am Acad Audiol	J. Am. Acad. Audiol.	Journal of the American Academy of Audiology
+Journal of the American Academy of Audiology.	J Am Acad Audiol	J. Am. Acad. Audiol.	Journal of the American Academy of Audiology
+Journal of the Chinese Society of Animal Science	J Chin Soc Anim Sci	J. Chin. Soc. Anim. Sci.	Zhongguo Xu Mu Xue Hui Hui Zhi = Journal of the Chinese Society of Animal Science
+Journal of the KMA	J Ky Med Assoc	J. Ky Med. Assoc.	The Journal of the Kentucky Medical Association
+Journal of the Massachusetts Association of Boards of Health	J Mass Assoc Boards Health	J. Mass. Assoc. Boards. Health.	Journal
+Journal of the Saudi Heart Association	J Saudi Heart Assoc	J. Saudi Heart Assoc.	Journal of the Saudi Heart Association
+Journal of the Saudi Heart Association.	J Saudi Heart Assoc	J. Saudi Heart Assoc.	Journal of the Saudi Heart Association
+Journal of the pancreas	JOP	JOP	JOP : Journal of the Pancreas
+Journal of tropical pathology	Rev Patol Trop	Rev. Patol. Trop.	Revista De Patologia Tropical
+Journal of vestibular research : equilibrium & orientation	J Vestib Res	J. Vestib. Res.	Journal of Vestibular Research : Equilibrium & Orientation
+Journal of vestibular research : equilibrium & orientation.	J Vestib Res	J. Vestib. Res.	Journal of Vestibular Research : Equilibrium & Orientation
+Journal of vocational rehabilitation	J Vocat Rehabil	J. Vocat. Rehabil.	Journal of Vocational Rehabilitation
+Journal of vocational rehabilitation.	J Vocat Rehabil	J. Vocat. Rehabil.	Journal of Vocational Rehabilitation
+Journal of x-ray science and technology	J Xray Sci Technol	J. Xray. Sci. Technol.	Journal of X-Ray Science and Technology
+Journal, genetic engineering & biotechnology	J Genet Eng Biotechnol	J. Genet. Eng. Biotechnol.	Journal, Genetic Engineering & Biotechnology
+Journal, genetic engineering & biotechnology.	J Genet Eng Biotechnol	J. Genet. Eng. Biotechnol.	Journal, Genetic Engineering & Biotechnology
+Journal, genetic engineering and biotechnology	J Genet Eng Biotechnol	J. Genet. Eng. Biotechnol.	Journal, Genetic Engineering & Biotechnology
+Journal, physical therapy education	J Phys Ther Educ	J. Phys. Ther. Educ.	Journal, Physical Therapy Education
+Journal, physical therapy education.	J Phys Ther Educ	J. Phys. Ther. Educ.	Journal, Physical Therapy Education
+Journal.	J Mass Assoc Boards Health	J. Mass. Assoc. Boards. Health.	Journal
+Jpn. j. physiol	Jpn J Physiol	Jpn. J. Physiol.	The Japanese Journal of Physiology
+Jpn. j. physiol.	Jpn J Physiol	Jpn. J. Physiol.	The Japanese Journal of Physiology
+Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA	Knee Surg Sports Traumatol Arthrosc	Knee Surg. Sports Traumatol. Arthrosc.	Knee Surgery, Sports Traumatology, Arthroscopy : Official Journal of the ESSKA
+Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA.	Knee Surg Sports Traumatol Arthrosc	Knee Surg. Sports Traumatol. Arthrosc.	Knee Surgery, Sports Traumatology, Arthroscopy : Official Journal of the ESSKA
+Korean journal of hospice and palliative care	Hanguk Hosupisu Wanhwa Uiryo Hakhoe Chi	Hanguk. Hosupisu. Wanhwa Uiryo Hakhoe Chi	Han'guk Hosŭpʻisŭ Wanhwa Uiryo Hakhoe Chi = The Korean Journal of Hospice and Palliative Care
+LDRP	Learn Disabil Res Pract	Learn. Disabil. Res. Pract.	Learning Disabilities Research & Practice : a Publication of the Division for Learning Disabilities, Council for Exceptional Children
+Learning disabilities research & practice : a publication of the Division for Learning Disabilities, Council for Exceptional Children	Learn Disabil Res Pract	Learn. Disabil. Res. Pract.	Learning Disabilities Research & Practice : a Publication of the Division for Learning Disabilities, Council for Exceptional Children
+Learning disabilities research & practice : a publication of the Division for Learning Disabilities, Council for Exceptional Children.	Learn Disabil Res Pract	Learn. Disabil. Res. Pract.	Learning Disabilities Research & Practice : a Publication of the Division for Learning Disabilities, Council for Exceptional Children
+Learning disabilities research and practice	Learn Disabil Res Pract	Learn. Disabil. Res. Pract.	Learning Disabilities Research & Practice : a Publication of the Division for Learning Disabilities, Council for Exceptional Children
+MBC	Mol Biol Cell	Mol. Biol. Cell	Molecular Biology of the Cell
+MBoC	Mol Biol Cell	Mol. Biol. Cell	Molecular Biology of the Cell
+MDCP	Mov Disord Clin Pract	Mov. Disord. Clin. Pract.	Movement Disorders Clinical Practice
+MJPH	Mich J Public Health	Mich. J. Public Health	Michigan Journal of Public Health
+MLST	Mar Life Sci Technol	Mar. Life Sci. Technol.	Marine Life Science & Technology
+MTO	Mol Ther Oncolytics	Mol. Ther. Oncolytics	Molecular Therapy Oncolytics
+Majallah-i ʻilmī pizhūhishī-i Dānishgāh-i ʻUlūm-i Pizishkī va Khadamāt-i Bihdāshtī-i Darmānī-i Zanjān	Majallahi Ilmi Pizhuhishii Danishgahi Ulumi Pizishki Khadamati Bihdashtii Darmanii Zanjan	Majallahi. Ilmi. Pizhuhishii. Danishgahi. Ulumi. Pizishki. Khadamati. Bihdashtii. Darmanii. Zanjan.	Majallah-I ʻIlmī Pizhūhishī-I Dānishgāh-I ʻUlūm-I Pizishkī Va Khadamāt-I Bihdāshtī-I Darmānī-I Zanjān
+Majallah-i ʻilmī pizhūhishī-i Dānishgāh-i ʻUlūm-i Pizishkī va Khadamāt-i Bihdāshtī-i Darmānī-i Zanjān.	Majallahi Ilmi Pizhuhishii Danishgahi Ulumi Pizishki Khadamati Bihdashtii Darmanii Zanjan	Majallahi. Ilmi. Pizhuhishii. Danishgahi. Ulumi. Pizishki. Khadamati. Bihdashtii. Darmanii. Zanjan.	Majallah-I ʻIlmī Pizhūhishī-I Dānishgāh-I ʻUlūm-I Pizishkī Va Khadamāt-I Bihdāshtī-I Darmānī-I Zanjān
+Majallat al-handasah al-wirāthīyah wa-al-biyūtiknūlūjīyah	J Genet Eng Biotechnol	J. Genet. Eng. Biotechnol.	Journal, Genetic Engineering & Biotechnology
+Marine life science & technology	Mar Life Sci Technol	Mar. Life Sci. Technol.	Marine Life Science & Technology
+Marine life science & technology.	Mar Life Sci Technol	Mar. Life Sci. Technol.	Marine Life Science & Technology
+Marine life science and technology	Mar Life Sci Technol	Mar. Life Sci. Technol.	Marine Life Science & Technology
+Medical Review	Med Rev (2021)	Med. Rev. (2021)	Medical Review
+Medical examiner (Philadelphia, Pa.)	Med Exam (Phila)	Med. Exam. (Phila)	The Medical Examiner
+Medical examiner and record of medical science	Med Exam (Phila)	Med. Exam. (Phila)	The Medical Examiner
+Medical examiner and retrospect of the medical sciences	Med Exam (Phila)	Med. Exam. (Phila)	The Medical Examiner
+Medical libraries	Med Lib	Med. Lib.	Medical Libraries
+Medical libraries.	Med Lib	Med. Lib.	Medical Libraries
+Medical review	Med Rev (2021)	Med. Rev. (2021)	Medical Review
+Medical review (2021)	Med Rev (2021)	Med. Rev. (2021)	Medical Review
+Medical review.	Med Rev (2021)	Med. Rev. (2021)	Medical Review
+Medico-chirurgical transactions	Med Chir Trans	Med. Chir. Trans.	Medico-Chirurgical Transactions
+Medico-chirurgical transactions.	Med Chir Trans	Med. Chir. Trans.	Medico-Chirurgical Transactions
+Mediterranean journal of nutrition and metabolism	Med J Nutrition Metab	Med. J. Nutrition Metab.	Mediterranean Journal of Nutrition and Metabolism
+Mediterranean journal of nutrition and metabolism.	Med J Nutrition Metab	Med. J. Nutrition Metab.	Mediterranean Journal of Nutrition and Metabolism
+Metab.Clin.Exp	Metabolism	Metabolism.	Metabolism: Clinical and Experimental
+Metab.Clin.Exp.	Metabolism	Metabolism.	Metabolism: Clinical and Experimental
+Metabolism: clinical and experimental	Metabolism	Metabolism.	Metabolism: Clinical and Experimental
+Metabolism: clinical and experimental.	Metabolism	Metabolism.	Metabolism: Clinical and Experimental
+Médecine et santé tropicales	Med Sante Trop	Med. Sante. Trop.	Médecine Et Santé Tropicales
+Médecine et santé tropicales.	Med Sante Trop	Med. Sante. Trop.	Médecine Et Santé Tropicales
+Michigan journal of public health	Mich J Public Health	Mich. J. Public Health	Michigan Journal of Public Health
+Michigan journal of public health.	Mich J Public Health	Mich. J. Public Health	Michigan Journal of Public Health
+Microbiology ecology	FEMS Microbiol Ecol	FEMS Microbiol. Ecol.	FEMS Microbiology Ecology
+Microbiology immunology	FEMS Microbiol Immunol	FEMS Microbiol. Immunol.	FEMS Microbiology Immunology
+Microbiology insights	Microbiol Insights	Microbiol. Insights	Microbiology Insights
+Microbiology insights.	Microbiol Insights	Microbiol. Insights	Microbiology Insights
+Microbiology reviews	FEMS Microbiol Rev	FEMS Microbiol. Rev.	FEMS Microbiology Reviews
+Molec Cells	Mol Cells	Mol. Cells	Molecules and Cells
+Molec. Biol. Cell	Mol Biol Cell	Mol. Biol. Cell	Molecular Biology of the Cell
+Molecular biology of the cell	Mol Biol Cell	Mol. Biol. Cell	Molecular Biology of the Cell
+Molecular biology of the cell.	Mol Biol Cell	Mol. Biol. Cell	Molecular Biology of the Cell
+Molecular catalysis	Mol Catal	Mol. Catal.	Molecular Catalysis
+Molecular catalysis.	Mol Catal	Mol. Catal.	Molecular Catalysis
+Molecular therapy oncolytics	Mol Ther Oncolytics	Mol. Ther. Oncolytics	Molecular Therapy Oncolytics
+Molecular therapy oncolytics.	Mol Ther Oncolytics	Mol. Ther. Oncolytics	Molecular Therapy Oncolytics
+Molecules and cells	Mol Cells	Mol. Cells	Molecules and Cells
+Molecules and cells.	Mol Cells	Mol. Cells	Molecules and Cells
+Molekuli︠a︡rnai︠a︡ i prikladnai︠a︡ genetika	Mol Prikl Genet	Mol. Prikl. Genet.	Molekuli︠a︡rnai︠a︡ I prikladnai︠a︡ Genetika
+Molekuli︠a︡rnai︠a︡ i prikladnai︠a︡ genetika.	Mol Prikl Genet	Mol. Prikl. Genet.	Molekuli︠a︡rnai︠a︡ I prikladnai︠a︡ Genetika
+Mov Disord Clin Pract (Hoboken)	Mov Disord Clin Pract	Mov. Disord. Clin. Pract.	Movement Disorders Clinical Practice
+Movement disorders clinical practice	Mov Disord Clin Pract	Mov. Disord. Clin. Pract.	Movement Disorders Clinical Practice
+Movement disorders clinical practice.	Mov Disord Clin Pract	Mov. Disord. Clin. Pract.	Movement Disorders Clinical Practice
+N. Zealand M. J	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+N. Zealand M. J.	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+NBM	Nanobiomedicine (Rij)	Nanobiomedicine (Rij)	Nanobiomedicine
+NEJM evidence	NEJM Evid	NEJM Evid.	NEJM Evidence
+NEJM evidence.	NEJM Evid	NEJM Evid.	NEJM Evidence
+Nanobiomedicine	Nanobiomedicine (Rij)	Nanobiomedicine (Rij)	Nanobiomedicine
+Nanobiomedicine.	Nanobiomedicine (Rij)	Nanobiomedicine (Rij)	Nanobiomedicine
+Nanobiotechnology	IET Nanobiotechnol	IET Nanobiotechnol.	IET Nanobiotechnology
+Nanotechnology	Nanotechnology	Nanotechnology	Nanotechnology
+Nanotechnology.	Nanotechnology	Nanotechnology	Nanotechnology
+Nature Computational Science	Nat Comput Sci	Nat. Comput. Sci.	Nature Computational Science
+Nature computational science	Nat Comput Sci	Nat. Comput. Sci.	Nature Computational Science
+Nature computational science.	Nat Comput Sci	Nat. Comput. Sci.	Nature Computational Science
+Neuro Rehabilitation	NeuroRehabilitation	NeuroRehabilitation	NeuroRehabilitation
+NeuroRehabilitation	NeuroRehabilitation	NeuroRehabilitation	NeuroRehabilitation
+NeuroRehabilitation.	NeuroRehabilitation	NeuroRehabilitation	NeuroRehabilitation
+Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics	Neurotherapeutics	Neurotherapeutics	Neurotherapeutics : the Journal of the American Society for Experimental NeuroTherapeutics
+Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics.	Neurotherapeutics	Neurotherapeutics	Neurotherapeutics : the Journal of the American Society for Experimental NeuroTherapeutics
+New Zeal Med J	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+New Zeal. Med. J	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+New Zeal. Med. J.	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+New Zealand M.J	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+New Zealand M.J.	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+New Zealand Med J	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+Oncology	BMJ Oncol	BMJ Oncol.	BMJ Oncology
+Open science	BMJ Open Sci	BMJ Open Sci.	BMJ Open Science
+Origins of life	Orig Life Evol Biosph	Orig. Life Evol. Biosph.	Origins of Life and Evolution of the Biosphere : the Journal of the International Society for the Study of the Origin of Life
+Origins of life and evolution of the biosphere	Orig Life Evol Biosph	Orig. Life Evol. Biosph.	Origins of Life and Evolution of the Biosphere : the Journal of the International Society for the Study of the Origin of Life
+Origins of life and evolution of the biosphere : the journal of the International Society for the Study of the Origin of Life	Orig Life Evol Biosph	Orig. Life Evol. Biosph.	Origins of Life and Evolution of the Biosphere : the Journal of the International Society for the Study of the Origin of Life
+Origins of life and evolution of the biosphere : the journal of the International Society for the Study of the Origin of Life.	Orig Life Evol Biosph	Orig. Life Evol. Biosph.	Origins of Life and Evolution of the Biosphere : the Journal of the International Society for the Study of the Origin of Life
+PAD	Pathog Dis	Pathog. Dis.	Pathogens and Disease
+PHCH	PHC4 FYI	PHC4 FYI	PHC4 FYI
+PJFNS	Pol J Food Nutr Sci	Pol. J. Food Nutr. Sci.	Polish Journal of Food and Nutrition Sciences
+PUBLIC HEALTH REP	Public Health Rep (1896)	Public Health Rep. (1896)	Public Health Reports
+Pathogens and disease	Pathog Dis	Pathog. Dis.	Pathogens and Disease
+Pathogens and disease.	Pathog Dis	Pathog. Dis.	Pathogens and Disease
+Pediatric and congenital heart disease	CJC Pediatr Congenit Heart Dis	CJC Pediatr. Congenit. Heart Dis.	CJC Pediatric and Congenital Heart Disease
+Pennsylvania Health Care Cost Containment Council FYI	PHC4 FYI	PHC4 FYI	PHC4 FYI
+Perspectives in pediatric rheumatology	J Rheumatol Suppl	J. Rheumatol. Suppl.	The Journal of Rheumatology. Supplement
+Pharmacopsychiatry	Pharmacopsychiatry	Pharmacopsychiatry	Pharmacopsychiatry
+Pharmacopsychiatry.	Pharmacopsychiatry	Pharmacopsychiatry	Pharmacopsychiatry
+Physical activity review	Phys. Act. Rev.	Phys.. Act.. Rev..	Physical Activity Review
+Physical activity review.	Phys. Act. Rev.	Phys.. Act.. Rev..	Physical Activity Review
+Physiological measurement	Physiol Meas	Physiol. Meas.	Physiological Measurement
+Physiological measurement.	Physiol Meas	Physiol. Meas.	Physiological Measurement
+Physiotherapy practice and research	Physiother Pract Res	Physiother. Pract. Res.	Physiotherapy Practice and Research
+Physiotherapy practice and research.	Physiother Pract Res	Physiother. Pract. Res.	Physiotherapy Practice and Research
+Polish journal of food and nutrition sciences	Pol J Food Nutr Sci	Pol. J. Food Nutr. Sci.	Polish Journal of Food and Nutrition Sciences
+Polish journal of public health	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Problemy sot︠s︡ialʹnoĭ gigieny, zdravookhranenii︠a︡ i istorii medit︠s︡iny	Probl Sotsialnoi Gig Zdravookhranenniiai Istor Med	Probl. Sotsialnoi. Gig. Zdravookhranenniiai. Istor. Med.	Problemy Sot︠s︡ialʹnoĭ Gigieny, zdravookhranenii︠a︡ I Istorii Medit︠s︡iny
+Psychol neuropsychiatr vieillissement	Psychol Neuropsychiatr Vieil	Psychol. Neuropsychiatr. Vieil.	Psychologie & Neuropsychiatrie Du Vieillissement
+Psychologie & neuropsychiatrie du vieillissement	Psychol Neuropsychiatr Vieil	Psychol. Neuropsychiatr. Vieil.	Psychologie & Neuropsychiatrie Du Vieillissement
+Psychologie & neuropsychiatrie du vieillissement.	Psychol Neuropsychiatr Vieil	Psychol. Neuropsychiatr. Vieil.	Psychologie & Neuropsychiatrie Du Vieillissement
+Psychologie et neuropsychiatrie du vieillissement	Psychol Neuropsychiatr Vieil	Psychol. Neuropsychiatr. Vieil.	Psychologie & Neuropsychiatrie Du Vieillissement
+Public health	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Public health papers and reports	Public Health Pap Rep	Public Health Pap. Rep.	Public Health Papers and Reports
+Public health papers and reports.	Public Health Pap Rep	Public Health Pap. Rep.	Public Health Papers and Reports
+Public health reports	Public Health Rep (1896)	Public Health Rep. (1896)	Public Health Reports
+Public health reports (Washington, D.C. : 1896)	Public Health Rep (1896)	Public Health Rep. (1896)	Public Health Reports
+Public health reports.	Public Health Rep (1896)	Public Health Rep. (1896)	Public Health Reports
+Q. BULL. FRONTIER NURS. SERV	Front Nurs Serv Q Bull	Front. Nurs. Serv. Q. Bull.	Frontier Nursing Service Quarterly Bulletin
+Q. BULL. FRONTIER NURS. SERV.	Front Nurs Serv Q Bull	Front. Nurs. Serv. Q. Bull.	Frontier Nursing Service Quarterly Bulletin
+Qualitative research in medicine & healthcare	Qual Res Med Healthc	Qual. Res. Med. Healthc.	Qualitative Research in Medicine & Healthcare
+Qualitative research in medicine & healthcare.	Qual Res Med Healthc	Qual. Res. Med. Healthc.	Qualitative Research in Medicine & Healthcare
+Qualitative research in medicine and healthcare	Qual Res Med Healthc	Qual. Res. Med. Healthc.	Qualitative Research in Medicine & Healthcare
+RAI	Radiol Artif Intell	Radiol. Artif. Intell.	Radiology. Artificial Intelligence
+RECIIS	Rev Electron Comun Inf Inov Saude	Rev. Electron. Comun. Inf. Inov. Saude.	Revista Electrônica De comunicação, informação & inovação Em Saúde : RECIIS
+RECIIS, electronic journal of communication, information & innovation in health	Rev Electron Comun Inf Inov Saude	Rev. Electron. Comun. Inf. Inov. Saude.	Revista Electrônica De comunicação, informação & inovação Em Saúde : RECIIS
+Radiology. Artificial intelligence	Radiol Artif Intell	Radiol. Artif. Intell.	Radiology. Artificial Intelligence
+Radiology. Artificial intelligence.	Radiol Artif Intell	Radiol. Artif. Intell.	Radiology. Artificial Intelligence
+Radiology. Cardiothoracic imaging	Radiol Cardiothorac Imaging	Radiol. Cardiothorac. Imaging	Radiology. Cardiothoracic Imaging
+Radiology. Cardiothoracic imaging.	Radiol Cardiothorac Imaging	Radiol. Cardiothorac. Imaging	Radiology. Cardiothoracic Imaging
+Recent patents on anti-infective drug discovery	Recent Pat Antiinfect Drug Discov	Recent Pat. Antiinfect. Drug Discov.	Recent Patents on Anti-Infective Drug Discovery
+Recent patents on anti-infective drug discovery.	Recent Pat Antiinfect Drug Discov	Recent Pat. Antiinfect. Drug Discov.	Recent Patents on Anti-Infective Drug Discovery
+Report of the annual meeting of the South African Association for the Advancement of Science	S Afr J Sci	S. Afr. J. Sci.	South African Journal of Science
+Reports	IDRC Rep	IDRC Rep.	The IDRC Reports
+Reports on progress in physics	Rep Prog Phys	Rep. Prog. Phys.	Reports on Progress in Physics
+Reports on progress in physics.	Rep Prog Phys	Rep. Prog. Phys.	Reports on Progress in Physics
+Reproduction fertility and development	Reprod Fertil Dev	Reprod. Fertil. Dev.	Reproduction, Fertility, and Development
+Reproduction, fertility, and development	Reprod Fertil Dev	Reprod. Fertil. Dev.	Reproduction, Fertility, and Development
+Reproduction, fertility, and development.	Reprod Fertil Dev	Reprod. Fertil. Dev.	Reproduction, Fertility, and Development
+Restorative neurology and neuroscience	Restor Neurol Neurosci	Restor. Neurol. Neurosci.	Restorative Neurology and Neuroscience
+Restorative neurology and neuroscience.	Restor Neurol Neurosci	Restor. Neurol. Neurosci.	Restorative Neurology and Neuroscience
+Rev Inst Lutz	Rev Inst Adolfo Lutz	Rev. Inst. Adolfo Lutz	Revista Do Instituto Adolfo Lutz
+Rev. Inst. Adolfo Lutz, S. Paulo	Rev Inst Adolfo Lutz	Rev. Inst. Adolfo Lutz	Revista Do Instituto Adolfo Lutz
+Revista Cuidarte	Rev Cuid	Rev. Cuid.	Revista Cuidarte
+Revista Cuidarte.	Rev Cuid	Rev. Cuid.	Revista Cuidarte
+Revista de patologia tropical	Rev Patol Trop	Rev. Patol. Trop.	Revista De Patologia Tropical
+Revista de patologia tropical.	Rev Patol Trop	Rev. Patol. Trop.	Revista De Patologia Tropical
+Revista do Instituto Adolfo Lutz	Rev Inst Adolfo Lutz	Rev. Inst. Adolfo Lutz	Revista Do Instituto Adolfo Lutz
+Revista do Instituto Adolfo Lutz.	Rev Inst Adolfo Lutz	Rev. Inst. Adolfo Lutz	Revista Do Instituto Adolfo Lutz
+Revista electrônica de comunicação, informação & inovação em saúde : RECIIS	Rev Electron Comun Inf Inov Saude	Rev. Electron. Comun. Inf. Inov. Saude.	Revista Electrônica De comunicação, informação & inovação Em Saúde : RECIIS
+Revista electrônica de comunicação, informação & inovação em saúde : RECIIS.	Rev Electron Comun Inf Inov Saude	Rev. Electron. Comun. Inf. Inov. Saude.	Revista Electrônica De comunicação, informação & inovação Em Saúde : RECIIS
+Revista eletrônica de comunicação, informação e inovação em saúde	Rev Electron Comun Inf Inov Saude	Rev. Electron. Comun. Inf. Inov. Saude.	Revista Electrônica De comunicação, informação & inovação Em Saúde : RECIIS
+Revue de synthèse	Rev Synth	Rev. Synth.	Revue De Synthèse
+Rheumatology	Lancet Rheumatol	Lancet. Rheumatol.	The Lancet. Rheumatology
+Risk & safety in medicine	Int J Risk Saf Med	Int. J. Risk Saf. Med.	The International Journal of Risk & Safety in Medicine
+Risk and safety in medicine	Int J Risk Saf Med	Int. J. Risk Saf. Med.	The International Journal of Risk & Safety in Medicine
+S. Afr. M. J	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+S. Afr. M. J.	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+SAMJ	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+SAMT	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+SOUTH AFR. M. J	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+SOUTH AFR. M. J.	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+Salud colectiva	Salud Colect	Salud Colect.	Salud Colectiva
+Salud colectiva.	Salud Colect	Salud Colect.	Salud Colectiva
+Santé (Montrouge, France)	Sante	Sante.	Santé : Cahiers D'étude Et De Recherches Francophones
+Santé : cahiers d'étude et de recherches francophones	Sante	Sante.	Santé : Cahiers D'étude Et De Recherches Francophones
+Santé : cahiers d'étude et de recherches francophones.	Sante	Sante.	Santé : Cahiers D'étude Et De Recherches Francophones
+Scandinavian audiology	Scand Audiol	Scand. Audiol.	Scandinavian Audiology
+Scandinavian audiology.	Scand Audiol	Scand. Audiol.	Scandinavian Audiology
+Sciences de la nature et synthèse générale	Rev Synth	Rev. Synth.	Revue De Synthèse
+Section A of Disease markers	Cancer Biomark	Cancer Biomark.	Cancer Biomarkers : Section A of Disease Markers
+Serbian Journal of Stomatology	Stomatol Glas Srb	Stomatol. Glas. Srb.	Stomatolos̆ki Glasnik Srbije
+Serbian dental journal	Stomatol Glas Srb	Stomatol. Glas. Srb.	Stomatolos̆ki Glasnik Srbije
+South African journal of science	S Afr J Sci	S. Afr. J. Sci.	South African Journal of Science
+South African journal of science.	S Afr J Sci	S. Afr. J. Sci.	South African Journal of Science
+South African medical journal	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde.	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+Stomatolos̆ki glasnik Srbije	Stomatol Glas Srb	Stomatol. Glas. Srb.	Stomatolos̆ki Glasnik Srbije
+Stomatolos̆ki glasnik Srbije.	Stomatol Glas Srb	Stomatol. Glas. Srb.	Stomatolos̆ki Glasnik Srbije
+Studies in health technology and informatics	Stud Health Technol Inform	Stud. Health Technol. Inform.	Studies in Health Technology and Informatics
+Studies in health technology and informatics.	Stud Health Technol Inform	Stud. Health Technol. Inform.	Studies in Health Technology and Informatics
+Substance abuse	Subst Abus	Subst. Abus.	Substance Abuse
+Substance abuse.	Subst Abus	Subst. Abus.	Substance Abuse
+Suid-Afrikaanse joernaal van wetenskap	S Afr J Sci	S. Afr. J. Sci.	South African Journal of Science
+Suid-Afrikaanse mediese joernal	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+Suid-Afrikaanse mediese tydskrif	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+Suid-Afrikaanse tydskrif vir geneeskunde	S Afr Med J	S. Afr. Med. J.	South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde
+Suid-Afrikaanse tydskrif vir wetenskap	S Afr J Sci	S. Afr. J. Sci.	South African Journal of Science
+Support line : a newsletter of Dietitians in Nutrition Support	Support Line (Chic)	Support Line (Chic)	Support Line : a Newsletter of Dietitians in Nutrition Support
+Support line : a newsletter of Dietitians in Nutrition Support.	Support Line (Chic)	Support Line (Chic)	Support Line : a Newsletter of Dietitians in Nutrition Support
+Synthèse historique	Rev Synth	Rev. Synth.	Revue De Synthèse
+TAIRD	Ther Adv Rare Dis	Ther. Adv. Rare Dis.	Therapeutic Advances in Rare Disease
+TRD	Ther Adv Rare Dis	Ther. Adv. Rare Dis.	Therapeutic Advances in Rare Disease
+Taiwan yi xue ren wen xue kan	Taiwan Yi Xue  Ren Wen Xue Kan	Taiwan Yi Xue Ren Wen Xue Kan	Taiwan Yi Xue Ren Wen Xue Kan
+Taiwan yi xue ren wen xue kan.	Taiwan Yi Xue  Ren Wen Xue Kan	Taiwan Yi Xue Ren Wen Xue Kan	Taiwan Yi Xue Ren Wen Xue Kan
+Technology and disability	Technol Disabil	Technol. Disabil.	Technology and Disability
+Technology and disability.	Technol Disabil	Technol. Disabil.	Technology and Disability
+Technology and health care : official journal of the European Society for Engineering and Medicine	Technol Health Care	Technol. Health Care	Technology and Health Care : Official Journal of the European Society for Engineering and Medicine
+Technology and health care : official journal of the European Society for Engineering and Medicine.	Technol Health Care	Technol. Health Care	Technology and Health Care : Official Journal of the European Society for Engineering and Medicine
+The Bistoury	Bistoury	Bistoury	The Bistoury
+The Bistoury.	Bistoury	Bistoury	The Bistoury
+The British journal of general practice : the journal of the Royal College of General Practitioners	Br J Gen Pract	Br. J. Gen. Pract.	The British Journal of General Practice : the Journal of the Royal College of General Practitioners
+The British journal of general practice : the journal of the Royal College of General Practitioners.	Br J Gen Pract	Br. J. Gen. Pract.	The British Journal of General Practice : the Journal of the Royal College of General Practitioners
+The EMBO journal	EMBO J	EMBO J.	The EMBO Journal
+The EMBO journal.	EMBO J	EMBO J.	The EMBO Journal
+The European journal of prosthodontics and restorative dentistry	Eur J Prosthodont Restor Dent	Eur. J. Prosthodont. Restor. Dent.	The European Journal of Prosthodontics and Restorative Dentistry
+The European journal of prosthodontics and restorative dentistry.	Eur J Prosthodont Restor Dent	Eur. J. Prosthodont. Restor. Dent.	The European Journal of Prosthodontics and Restorative Dentistry
+The IDRC reports	IDRC Rep	IDRC Rep.	The IDRC Reports
+The Independent practitioner	Indep Pract	Indep. Pract.	The Independent Practitioner
+The Independent practitioner.	Indep Pract	Indep. Pract.	The Independent Practitioner
+The International dental journal	Int Dent J (Phila)	Int. Dent. J. (Phila)	The International Dental Journal
+The International dental journal.	Int Dent J (Phila)	Int. Dent. J. (Phila)	The International Dental Journal
+The International journal of risk & safety in medicine	Int J Risk Saf Med	Int. J. Risk Saf. Med.	The International Journal of Risk & Safety in Medicine
+The International journal of risk & safety in medicine.	Int J Risk Saf Med	Int. J. Risk Saf. Med.	The International Journal of Risk & Safety in Medicine
+The Japanese journal of antibiotics	Jpn J Antibiot	Jpn. J. Antibiot.	The Japanese Journal of Antibiotics
+The Japanese journal of antibiotics.	Jpn J Antibiot	Jpn. J. Antibiot.	The Japanese Journal of Antibiotics
+The Japanese journal of physiology	Jpn J Physiol	Jpn. J. Physiol.	The Japanese Journal of Physiology
+The Japanese journal of physiology.	Jpn J Physiol	Jpn. J. Physiol.	The Japanese Journal of Physiology
+The Journal of clinical endocrinology and metabolism	J Clin Endocrinol Metab	J. Clin. Endocrinol. Metab.	The Journal of Clinical Endocrinology and Metabolism
+The Journal of clinical endocrinology and metabolism.	J Clin Endocrinol Metab	J. Clin. Endocrinol. Metab.	The Journal of Clinical Endocrinology and Metabolism
+The Journal of experimental medicine	J Exp Med	J. Exp. Med.	The Journal of Experimental Medicine
+The Journal of experimental medicine.	J Exp Med	J. Exp. Med.	The Journal of Experimental Medicine
+The Journal of rheumatology	J Rheumatol	J. Rheumatol.	The Journal of Rheumatology
+The Journal of rheumatology.	J Rheumatol	J. Rheumatol.	The Journal of Rheumatology
+The Journal of rheumatology. Supplement	J Rheumatol Suppl	J. Rheumatol. Suppl.	The Journal of Rheumatology. Supplement
+The Journal of rheumatology. Supplement.	J Rheumatol Suppl	J. Rheumatol. Suppl.	The Journal of Rheumatology. Supplement
+The Journal of the Kentucky Medical Association	J Ky Med Assoc	J. Ky Med. Assoc.	The Journal of the Kentucky Medical Association
+The Journal of the Kentucky Medical Association.	J Ky Med Assoc	J. Ky Med. Assoc.	The Journal of the Kentucky Medical Association
+The Lancet. Rheumatology	Lancet Rheumatol	Lancet. Rheumatol.	The Lancet. Rheumatology
+The Lancet. Rheumatology.	Lancet Rheumatol	Lancet. Rheumatol.	The Lancet. Rheumatology
+The Medical examiner	Med Exam (Phila)	Med. Exam. (Phila)	The Medical Examiner
+The Medical examiner.	Med Exam (Phila)	Med. Exam. (Phila)	The Medical Examiner
+The New Zealand medical journal	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+The New Zealand medical journal.	N Z Med J	N. Z. Med. J.	The New Zealand Medical Journal
+The North American medico-chirurgical review	N Am Medchir Rev	N Am. Medchir. Rev.	The North American Medico-Chirurgical Review
+The North American medico-chirurgical review.	N Am Medchir Rev	N Am. Medchir. Rev.	The North American Medico-Chirurgical Review
+The Western journal of the medical and physical sciences	West J Med Phys Sci	West. J. Med. Phys. Sci.	The Western Journal of the Medical and Physical Sciences
+The Western journal of the medical and physical sciences.	West J Med Phys Sci	West. J. Med. Phys. Sci.	The Western Journal of the Medical and Physical Sciences
+The journal of nutrition, health & aging	J Nutr Health Aging	J. Nutr. Health Aging	The Journal of Nutrition, Health & Aging
+The journal of nutrition, health & aging.	J Nutr Health Aging	J. Nutr. Health Aging	The Journal of Nutrition, Health & Aging
+The journal of physiological sciences : JPS	J Physiol Sci	J. Physiol. Sci.	The Journal of Physiological Sciences : JPS
+The journal of physiological sciences : JPS.	J Physiol Sci	J. Physiol. Sci.	The Journal of Physiological Sciences : JPS
+The plant pathology journal	Plant Pathol J	Plant Pathol. J.	The Plant Pathology Journal
+The plant pathology journal.	Plant Pathol J	Plant Pathol. J.	The Plant Pathology Journal
+Therapeutic advances in rare disease	Ther Adv Rare Dis	Ther. Adv. Rare Dis.	Therapeutic Advances in Rare Disease
+Therapeutic advances in rare disease.	Ther Adv Rare Dis	Ther. Adv. Rare Dis.	Therapeutic Advances in Rare Disease
+Tiao shi yi xue	Adapt Med	Adapt. Med.	Adaptive Medicine
+Tuberculosis and thorax	Tuberk Toraks	Tuberk. Toraks	Tüberküloz Ve Toraks
+Tüberküloz ve toraks	Tuberk Toraks	Tuberk. Toraks	Tüberküloz Ve Toraks
+Tüberküloz ve toraks.	Tuberk Toraks	Tuberk. Toraks	Tüberküloz Ve Toraks
+Vascular cell	Vasc Cell	Vasc. Cell	Vascular Cell
+Vascular cell.	Vasc Cell	Vasc. Cell	Vascular Cell
+Vocational rehabilitation	J Vocat Rehabil	J. Vocat. Rehabil.	Journal of Vocational Rehabilitation
+WEM	Wilderness Environ Med	Wilderness Environ. Med.	Wilderness & Environmental Medicine
+Western journal of medicine and surgery	West J Med Surg	West. J. Med. Surg.	Western Journal of Medicine and Surgery
+Western journal of medicine and surgery.	West J Med Surg	West. J. Med. Surg.	Western Journal of Medicine and Surgery
+Wilderness & environmental medicine	Wilderness Environ Med	Wilderness Environ. Med.	Wilderness & Environmental Medicine
+Wilderness & environmental medicine.	Wilderness Environ Med	Wilderness Environ. Med.	Wilderness & Environmental Medicine
+Wilderness and environmental medicine	Wilderness Environ Med	Wilderness Environ. Med.	Wilderness & Environmental Medicine
+Women's midlife health	Womens Midlife Health	Womens. Midlife Health	Women's Midlife Health
+Women's midlife health.	Womens Midlife Health	Womens. Midlife Health	Women's Midlife Health
+Work (Reading, Mass.)	Work	Work	Work : a Journal of Prevention, Assessment, and Rehabilitation
+Work : a journal of prevention, assessment, and rehabilitation	Work	Work	Work : a Journal of Prevention, Assessment, and Rehabilitation
+Work : a journal of prevention, assessment, and rehabilitation.	Work	Work	Work : a Journal of Prevention, Assessment, and Rehabilitation
+World journal of surgery	World J Surg	World J. Surg.	World Journal of Surgery
+World journal of surgery.	World J Surg	World J. Surg.	World Journal of Surgery
+Yeast research	FEMS Yeast Res	FEMS Yeast Res.	FEMS Yeast Research
+Zdravookhranenie	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Zdravookhranenie; Public health, 1968-	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Zdrow. pub	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Zdrow. pub.	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Zdrowie pub., Warsz	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Zdrowie pub., Warsz.	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Zdrowie publiczne	Zdrow Publiczne	Zdrow. Publiczne	Zdrowie Publiczne
+Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences	Zhong Nan Da Xue Xue Bao Yi Xue Ban	Zhong Nan Da Xue Xue Bao. Yi Xue Ban	Zhong Nan Da Xue Xue Bao. Yi Xue Ban = Journal of Central South University. Medical Sciences
+Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences.	Zhong Nan Da Xue Xue Bao Yi Xue Ban	Zhong Nan Da Xue Xue Bao. Yi Xue Ban	Zhong Nan Da Xue Xue Bao. Yi Xue Ban = Journal of Central South University. Medical Sciences
+Zhongguo xu mu xue hui hui zhi = Journal of the Chinese Society of Animal Science	J Chin Soc Anim Sci	J. Chin. Soc. Anim. Sci.	Zhongguo Xu Mu Xue Hui Hui Zhi = Journal of the Chinese Society of Animal Science
+Zhongguo xu mu xue hui hui zhi = Journal of the Chinese Society of Animal Science.	J Chin Soc Anim Sci	J. Chin. Soc. Anim. Sci.	Zhongguo Xu Mu Xue Hui Hui Zhi = Journal of the Chinese Society of Animal Science
+Zhonghua shao shang za zhi = Zhonghua shaoshang zazhi = Chinese journal of burns	Zhonghua Shao Shang Za Zhi	Zhonghua Shao Shang Za Zhi	Zhonghua Shao Shang Za Zhi = Zhonghua Shaoshang Zazhi = Chinese Journal of Burns
+Zhonghua shao shang za zhi = Zhonghua shaoshang zazhi = Chinese journal of burns.	Zhonghua Shao Shang Za Zhi	Zhonghua Shao Shang Za Zhi	Zhonghua Shao Shang Za Zhi = Zhonghua Shaoshang Zazhi = Chinese Journal of Burns
+Zhonghua shaoshang zazhi	Zhonghua Shao Shang Za Zhi	Zhonghua Shao Shang Za Zhi	Zhonghua Shao Shang Za Zhi = Zhonghua Shaoshang Zazhi = Chinese Journal of Burns
